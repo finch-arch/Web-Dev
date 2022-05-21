@@ -1,0 +1,8 @@
+body{background-color: #00FFAB;}
+hr{background-color: #00FFAB;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    width: 5%;
+  }
